@@ -9,23 +9,23 @@ Packages required:
 'openpyxl >= 3.0.6'
 
 
-## Installation
+# Installation
 In command line, do:
 1. Navigate to the file folder ../mmJC_parser
-2. > pip install .
+2. Type: > pip install .
 
-# Running a sample code
+## Running a sample code
 In command line:
 1. Navigate to the file folder
 2. Put the two sample data files in folder: data/raw/
-3. > python sample_run.py
+3. Type: > python sample_run.py
 
-# Running the tests
+## Running the tests
 In command line:
 1. Navigate to the file folder
-2. > pytest
+2. Type: > pytest
 
-# Methods (Workflow):
+## Methods (Workflow):
 
 1. Reshape data from wide into long format and remove missing values stored in 'records'
 2. Identify outliers and remove them (i.e., treat as missing values)
@@ -42,12 +42,12 @@ More notes and my work process can be find in the jupyter notebook
 
 
 # Todo
-1. The resulting files still contain some missing values, though much fewer than the raw file
-We could consult the client if further removing those missing values are necessary, and what are good methods.
+1. The resulting files still contain some missing values, though much fewer than the raw file.  
+We could consult the client if further removing those missing values are necessary, and what are good methods.  
 For example, can we aggregate data on bigger time intervals? Should we impute missing values or replace with mean?
 
 2. I did not use a standard criteria (e.g., 1.5*IQR) to check outliers, and simply removed a few obvious ones I spotted.
-We should ask the client what criteria is appropriate for defining outliers
+We should ask the client what criteria is appropriate for defining outliers.
 
 3. Due to time limit, the unit tests are incomplete. More testing are needed.
 
