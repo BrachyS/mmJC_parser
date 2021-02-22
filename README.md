@@ -12,18 +12,18 @@ Packages required:
 # Installation
 In command line, do:
 1. Navigate to the file folder ../mmJC_parser
-2. Type: > pip install .
+2. Type: pip install .
 
 ## Running a sample code
 In command line:
 1. Navigate to the file folder
 2. Put the two sample data files in folder: data/raw/
-3. Type: > python sample_run.py
+3. Type: python sample_run.py
 
 ## Running the tests
 In command line:
 1. Navigate to the file folder
-2. Type: > pytest
+2. Type: pytest
 
 ## Methods (Workflow):
 
