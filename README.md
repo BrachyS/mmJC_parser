@@ -41,7 +41,7 @@ More notes and my work process can be find in the jupyter notebook
 /notebooks/'data_wrangling.ipynb'
 
 
-# Todo
+# To-do
 1. The resulting files still contain some missing values, though much fewer than the raw file.  
 We could consult the client if further removing those missing values are necessary, and what are good methods.  
 For example, can we aggregate data on bigger time intervals? Should we impute missing values or replace with mean?
