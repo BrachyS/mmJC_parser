@@ -1,0 +1,611 @@
+,station_id,Hours,records
+0,CS1-1,114.08,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 1 Location CS1
+1,CS1-1,130.2,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well A1 To Vessel 1 Location CS1
+2,CS1-1,134.93,Volume 0.060 ml From Vessel 1 Location CS1
+3,CS1-1,136.03,Volume 0.010 ml Added From PlateID inocula Location Deck 2 Well A1 To Vessel 1 Location CS1
+4,CS1-1,137.95,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 1 Location CS1
+5,CS1-1,141.47,Volume 0.054 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 1 Location CS1
+6,CS1-1,141.67,Volume 0.054 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 1 Location CS1
+7,CS1-1,141.9,Volume 0.061 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 1 Location CS1
+8,CS1-1,142.17,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 1 Location CS1
+9,CS1-1,142.4,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 1 Location CS1
+10,CS1-1,142.77,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 1 Location CS1
+11,CS1-1,143.22,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 1 Location CS1
+12,CS1-1,143.78,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 1 Location CS1
+13,CS1-1,144.9,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 1 Location CS1
+14,CS1-1,146.58,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 1 Location CS1
+15,CS1-1,146.77,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 1 Location CS1
+16,CS1-1,147.0,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 1 Location CS1
+17,CS1-1,147.37,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 1 Location CS1
+18,CS1-1,147.78,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 1 Location CS1
+19,CS1-1,148.2,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well A1 From Vessel 1 Location CS1
+20,CS1-1,148.48,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 1 Location CS1
+21,CS1-1,151.37,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 1 Location CS1
+22,CS1-1,154.02,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 1 Location CS1
+23,CS1-1,160.05,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well C1 From Vessel 1 Location CS1
+24,CS1-1,162.05,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well E1 From Vessel 1 Location CS1
+25,CS1-1,164.05,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well G1 From Vessel 1 Location CS1
+26,CS1-1,187.1,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well A1 From Vessel 1 Location CS1
+27,CS1-2,114.18,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 2 Location CS1
+28,CS1-2,130.22,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well A1 To Vessel 2 Location CS1
+29,CS1-2,134.97,Volume 0.060 ml From Vessel 2 Location CS1
+30,CS1-2,136.05,Volume 0.010 ml Added From PlateID inocula Location Deck 2 Well A2 To Vessel 2 Location CS1
+31,CS1-2,137.98,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 2 Location CS1
+32,CS1-2,141.3,Volume 0.052 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 2 Location CS1
+33,CS1-2,141.68,Volume 0.069 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 2 Location CS1
+34,CS1-2,141.92,Volume 0.070 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 2 Location CS1
+35,CS1-2,142.18,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 2 Location CS1
+36,CS1-2,142.42,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 2 Location CS1
+37,CS1-2,142.78,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 2 Location CS1
+38,CS1-2,143.23,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 2 Location CS1
+39,CS1-2,143.8,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 2 Location CS1
+40,CS1-2,144.77,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 2 Location CS1
+41,CS1-2,146.12,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 2 Location CS1
+42,CS1-2,147.02,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 2 Location CS1
+43,CS1-2,147.38,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 2 Location CS1
+44,CS1-2,147.8,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 2 Location CS1
+45,CS1-2,148.23,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well A2 From Vessel 2 Location CS1
+46,CS1-2,148.5,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 2 Location CS1
+47,CS1-2,151.38,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 2 Location CS1
+48,CS1-2,154.53,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 2 Location CS1
+49,CS1-2,159.85,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B4 To Vessel 2 Location CS1
+50,CS1-2,160.07,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well C2 From Vessel 2 Location CS1
+51,CS1-2,162.08,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well E2 From Vessel 2 Location CS1
+52,CS1-2,164.08,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well G2 From Vessel 2 Location CS1
+53,CS1-2,187.12,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well A2 From Vessel 2 Location CS1
+54,CS1-3,114.22,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 3 Location CS1
+55,CS1-3,130.22,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well A1 To Vessel 3 Location CS1
+56,CS1-3,135.02,Volume 0.060 ml From Vessel 3 Location CS1
+57,CS1-3,136.05,Volume 0.050 ml Added From PlateID inocula Location Deck 2 Well A3 To Vessel 3 Location CS1
+58,CS1-3,138.0,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 3 Location CS1
+59,CS1-3,140.58,Volume 0.044 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 3 Location CS1
+60,CS1-3,140.8,Volume 0.050 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 3 Location CS1
+61,CS1-3,141.0,Volume 0.055 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 3 Location CS1
+62,CS1-3,141.32,Volume 0.076 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 3 Location CS1
+63,CS1-3,141.7,Volume 0.092 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 3 Location CS1
+64,CS1-3,141.93,Volume 0.093 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 3 Location CS1
+65,CS1-3,142.2,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 3 Location CS1
+66,CS1-3,142.43,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 3 Location CS1
+67,CS1-3,142.8,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 3 Location CS1
+68,CS1-3,143.52,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 3 Location CS1
+69,CS1-3,144.58,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 3 Location CS1
+70,CS1-3,145.67,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 3 Location CS1
+71,CS1-3,146.78,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 3 Location CS1
+72,CS1-3,147.03,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 3 Location CS1
+73,CS1-3,147.4,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 3 Location CS1
+74,CS1-3,147.82,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 3 Location CS1
+75,CS1-3,148.27,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well A3 From Vessel 3 Location CS1
+76,CS1-3,148.52,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 3 Location CS1
+77,CS1-3,151.4,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 3 Location CS1
+78,CS1-3,153.5,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 3 Location CS1
+79,CS1-3,156.32,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B3 To Vessel 3 Location CS1
+80,CS1-3,160.1,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well C3 From Vessel 3 Location CS1
+81,CS1-3,160.4,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B4 To Vessel 3 Location CS1
+82,CS1-3,162.1,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well E3 From Vessel 3 Location CS1
+83,CS1-3,164.13,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well G3 From Vessel 3 Location CS1
+84,CS1-3,187.13,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well A3 From Vessel 3 Location CS1
+85,CS1-4,114.23,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 4 Location CS1
+86,CS1-4,130.22,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well A1 To Vessel 4 Location CS1
+87,CS1-4,135.05,Volume 0.060 ml From Vessel 4 Location CS1
+88,CS1-4,136.07,Volume 0.050 ml Added From PlateID inocula Location Deck 2 Well A4 To Vessel 4 Location CS1
+89,CS1-4,138.07,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 4 Location CS1
+90,CS1-4,140.6,Volume 0.044 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 4 Location CS1
+91,CS1-4,140.82,Volume 0.050 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 4 Location CS1
+92,CS1-4,141.12,Volume 0.068 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 4 Location CS1
+93,CS1-4,141.48,Volume 0.085 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 4 Location CS1
+94,CS1-4,141.95,Volume 0.105 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 4 Location CS1
+95,CS1-4,142.22,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 4 Location CS1
+96,CS1-4,142.45,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 4 Location CS1
+97,CS1-4,142.82,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 4 Location CS1
+98,CS1-4,143.25,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 4 Location CS1
+99,CS1-4,144.22,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 4 Location CS1
+100,CS1-4,145.52,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 4 Location CS1
+101,CS1-4,147.42,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 4 Location CS1
+102,CS1-4,147.83,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 4 Location CS1
+103,CS1-4,148.3,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well A4 From Vessel 4 Location CS1
+104,CS1-4,148.53,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 4 Location CS1
+105,CS1-4,151.42,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 4 Location CS1
+106,CS1-4,156.33,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B3 To Vessel 4 Location CS1
+107,CS1-4,160.13,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well C4 From Vessel 4 Location CS1
+108,CS1-4,162.14,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well E4 From Vessel 4 Location CS1
+109,CS1-4,164.17,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well G4 From Vessel 4 Location CS1
+110,CS1-4,187.15,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well A4 From Vessel 4 Location CS1
+111,CS1-5,114.25,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 5 Location CS1
+112,CS1-5,130.23,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well A1 To Vessel 5 Location CS1
+113,CS1-5,135.1,Volume 0.060 ml From Vessel 5 Location CS1
+114,CS1-5,136.08,Volume 0.094 ml Added From PlateID inocula Location Deck 2 Well A5 To Vessel 5 Location CS1
+115,CS1-5,138.1,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 5 Location CS1
+116,CS1-5,138.67,Volume 0.006 ml Added From PlateID inocula Location Deck 2 Well A5 To Vessel 5 Location CS1
+117,CS1-5,140.4,Volume 0.048 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 5 Location CS1
+118,CS1-5,140.62,Volume 0.051 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 5 Location CS1
+119,CS1-5,140.9,Volume 0.070 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 5 Location CS1
+120,CS1-5,141.13,Volume 0.073 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 5 Location CS1
+121,CS1-5,141.5,Volume 0.090 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 5 Location CS1
+122,CS1-5,141.97,Volume 0.113 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 5 Location CS1
+123,CS1-5,142.47,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 5 Location CS1
+124,CS1-5,142.83,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 5 Location CS1
+125,CS1-5,143.27,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 5 Location CS1
+126,CS1-5,143.82,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 5 Location CS1
+127,CS1-5,145.17,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 5 Location CS1
+128,CS1-5,147.05,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 5 Location CS1
+129,CS1-5,147.43,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 5 Location CS1
+130,CS1-5,147.85,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 5 Location CS1
+131,CS1-5,148.55,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 5 Location CS1
+132,CS1-5,151.15,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well A5 From Vessel 5 Location CS1
+133,CS1-5,151.43,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 5 Location CS1
+134,CS1-5,156.42,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B3 To Vessel 5 Location CS1
+135,CS1-5,162.72,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well C5 From Vessel 5 Location CS1
+136,CS1-5,164.69,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well E5 From Vessel 5 Location CS1
+137,CS1-5,186.68,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well G5 From Vessel 5 Location CS1
+138,CS1-5,187.17,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well A5 From Vessel 5 Location CS1
+139,CS1-6,114.27,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 6 Location CS1
+140,CS1-6,130.23,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well A1 To Vessel 6 Location CS1
+141,CS1-6,135.13,Volume 0.060 ml From Vessel 6 Location CS1
+142,CS1-6,136.1,Volume 0.094 ml Added From PlateID inocula Location Deck 2 Well A6 To Vessel 6 Location CS1
+143,CS1-6,138.13,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 6 Location CS1
+144,CS1-6,138.68,Volume 0.006 ml Added From PlateID inocula Location Deck 2 Well A6 To Vessel 6 Location CS1
+145,CS1-6,140.42,Volume 0.048 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 6 Location CS1
+146,CS1-6,140.7,Volume 0.065 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 6 Location CS1
+147,CS1-6,140.92,Volume 0.068 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 6 Location CS1
+148,CS1-6,141.15,Volume 0.073 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 6 Location CS1
+149,CS1-6,141.52,Volume 0.093 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 6 Location CS1
+150,CS1-6,141.98,Volume 0.111 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 6 Location CS1
+151,CS1-6,142.48,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 6 Location CS1
+152,CS1-6,142.85,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 6 Location CS1
+153,CS1-6,143.28,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 6 Location CS1
+154,CS1-6,143.83,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 6 Location CS1
+155,CS1-6,144.6,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 6 Location CS1
+156,CS1-6,145.53,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 6 Location CS1
+157,CS1-6,147.07,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 6 Location CS1
+158,CS1-6,147.45,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 6 Location CS1
+159,CS1-6,147.87,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 6 Location CS1
+160,CS1-6,148.57,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 6 Location CS1
+161,CS1-6,151.18,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well A6 From Vessel 6 Location CS1
+162,CS1-6,151.45,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 6 Location CS1
+163,CS1-6,155.98,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B3 To Vessel 6 Location CS1
+164,CS1-6,162.75,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well C6 From Vessel 6 Location CS1
+165,CS1-6,164.72,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well E6 From Vessel 6 Location CS1
+166,CS1-6,186.7,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well G6 From Vessel 6 Location CS1
+167,CS1-6,187.18,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well A6 From Vessel 6 Location CS1
+168,CS1-7,114.28,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 7 Location CS1
+169,CS1-7,130.23,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well A1 To Vessel 7 Location CS1
+170,CS1-7,135.18,Volume 0.060 ml From Vessel 7 Location CS1
+171,CS1-7,136.12,Volume 0.094 ml Added From PlateID inocula Location Deck 2 Well A7 To Vessel 7 Location CS1
+172,CS1-7,138.17,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 7 Location CS1
+173,CS1-7,138.7,Volume 0.106 ml Added From PlateID inocula Location Deck 2 Well A7 To Vessel 7 Location CS1
+174,CS1-7,140.32,Volume 0.049 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 7 Location CS1
+175,CS1-7,140.5,Volume 0.049 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 7 Location CS1
+176,CS1-7,140.72,Volume 0.056 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 7 Location CS1
+177,CS1-7,141.02,Volume 0.078 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 7 Location CS1
+178,CS1-7,141.33,Volume 0.087 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 7 Location CS1
+179,CS1-7,141.72,Volume 0.105 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 7 Location CS1
+180,CS1-7,142.05,Volume 0.095 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 7 Location CS1
+181,CS1-7,142.5,Volume 0.011 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 7 Location CS1
+182,CS1-7,142.87,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 7 Location CS1
+183,CS1-7,143.53,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 7 Location CS1
+184,CS1-7,145.0,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 7 Location CS1
+185,CS1-7,146.8,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 7 Location CS1
+186,CS1-7,147.08,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 7 Location CS1
+187,CS1-7,147.47,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 7 Location CS1
+188,CS1-7,147.88,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 7 Location CS1
+189,CS1-7,148.58,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 7 Location CS1
+190,CS1-7,151.23,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well A7 From Vessel 7 Location CS1
+191,CS1-7,151.47,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 7 Location CS1
+192,CS1-7,152.82,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 7 Location CS1
+193,CS1-7,154.29,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 7 Location CS1
+194,CS1-7,159.68,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B4 To Vessel 7 Location CS1
+195,CS1-7,162.78,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well C7 From Vessel 7 Location CS1
+196,CS1-7,164.75,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well E7 From Vessel 7 Location CS1
+197,CS1-7,186.72,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well G7 From Vessel 7 Location CS1
+198,CS1-7,187.2,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well A7 From Vessel 7 Location CS1
+199,CS1-8,114.3,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 8 Location CS1
+200,CS1-8,130.25,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well A1 To Vessel 8 Location CS1
+201,CS1-8,135.22,Volume 0.060 ml From Vessel 8 Location CS1
+202,CS1-8,136.13,Volume 0.094 ml Added From PlateID inocula Location Deck 2 Well A8 To Vessel 8 Location CS1
+203,CS1-8,138.18,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 8 Location CS1
+204,CS1-8,138.72,Volume 0.106 ml Added From PlateID inocula Location Deck 2 Well A8 To Vessel 8 Location CS1
+205,CS1-8,140.43,Volume 0.049 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 8 Location CS1
+206,CS1-8,140.73,Volume 0.062 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 8 Location CS1
+207,CS1-8,141.03,Volume 0.075 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 8 Location CS1
+208,CS1-8,141.35,Volume 0.084 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 8 Location CS1
+209,CS1-8,141.73,Volume 0.102 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 8 Location CS1
+210,CS1-8,142.23,Volume 0.011 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 8 Location CS1
+211,CS1-8,142.88,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 8 Location CS1
+212,CS1-8,143.3,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 8 Location CS1
+213,CS1-8,143.55,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 8 Location CS1
+214,CS1-8,144.23,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 8 Location CS1
+215,CS1-8,145.75,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 8 Location CS1
+216,CS1-8,146.83,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 8 Location CS1
+217,CS1-8,147.48,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 8 Location CS1
+218,CS1-8,147.9,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 8 Location CS1
+219,CS1-8,148.6,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 8 Location CS1
+220,CS1-8,151.27,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well A8 From Vessel 8 Location CS1
+221,CS1-8,151.48,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 8 Location CS1
+222,CS1-8,154.83,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 8 Location CS1
+223,CS1-8,162.82,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well C8 From Vessel 8 Location CS1
+224,CS1-8,164.78,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well E8 From Vessel 8 Location CS1
+225,CS1-8,186.73,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well G8 From Vessel 8 Location CS1
+226,CS1-8,187.22,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well A8 From Vessel 8 Location CS1
+227,CS1-9,114.32,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 9 Location CS1
+228,CS1-9,130.25,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well A1 To Vessel 9 Location CS1
+229,CS1-9,135.27,Volume 0.060 ml From Vessel 9 Location CS1
+230,CS1-9,136.15,Volume 0.010 ml Added From PlateID inocula Location Deck 2 Well A9 To Vessel 9 Location CS1
+231,CS1-9,138.22,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 9 Location CS1
+232,CS1-9,142.9,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 9 Location CS1
+233,CS1-9,143.57,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 9 Location CS1
+234,CS1-9,143.85,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 9 Location CS1
+235,CS1-9,144.25,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 9 Location CS1
+236,CS1-9,144.62,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 9 Location CS1
+237,CS1-9,145.02,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 9 Location CS1
+238,CS1-9,145.95,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 9 Location CS1
+239,CS1-9,148.33,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well A9 From Vessel 9 Location CS1
+240,CS1-9,148.62,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 9 Location CS1
+241,CS1-9,151.5,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 9 Location CS1
+242,CS1-9,154.03,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 9 Location CS1
+243,CS1-9,160.17,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well C9 From Vessel 9 Location CS1
+244,CS1-9,162.17,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well E9 From Vessel 9 Location CS1
+245,CS1-9,164.2,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well G9 From Vessel 9 Location CS1
+246,CS1-9,187.23,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well A9 From Vessel 9 Location CS1
+247,CS1-10,114.35,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 10 Location CS1
+248,CS1-10,130.25,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well A1 To Vessel 10 Location CS1
+249,CS1-10,135.3,Volume 0.060 ml From Vessel 10 Location CS1
+250,CS1-10,136.17,Volume 0.010 ml Added From PlateID inocula Location Deck 2 Well A10 To Vessel 10 Location CS1
+251,CS1-10,138.23,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 10 Location CS1
+252,CS1-10,142.92,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 10 Location CS1
+253,CS1-10,143.32,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 10 Location CS1
+254,CS1-10,143.87,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 10 Location CS1
+255,CS1-10,144.27,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 10 Location CS1
+256,CS1-10,144.63,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 10 Location CS1
+257,CS1-10,145.03,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 10 Location CS1
+258,CS1-10,146.33,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 10 Location CS1
+259,CS1-10,148.35,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well A10 From Vessel 10 Location CS1
+260,CS1-10,151.52,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 10 Location CS1
+261,CS1-10,160.2,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well C10 From Vessel 10 Location CS1
+262,CS1-10,162.2,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well E10 From Vessel 10 Location CS1
+263,CS1-10,164.23,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well G10 From Vessel 10 Location CS1
+264,CS1-10,187.25,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well A10 From Vessel 10 Location CS1
+265,CS1-11,114.37,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 11 Location CS1
+266,CS1-11,130.25,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well A1 To Vessel 11 Location CS1
+267,CS1-11,135.35,Volume 0.060 ml From Vessel 11 Location CS1
+268,CS1-11,136.17,Volume 0.050 ml Added From PlateID inocula Location Deck 2 Well A11 To Vessel 11 Location CS1
+269,CS1-11,138.27,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 11 Location CS1
+270,CS1-11,141.75,Volume 0.048 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 11 Location CS1
+271,CS1-11,142.25,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 11 Location CS1
+272,CS1-11,142.93,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 11 Location CS1
+273,CS1-11,143.33,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 11 Location CS1
+274,CS1-11,143.58,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 11 Location CS1
+275,CS1-11,144.03,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 11 Location CS1
+276,CS1-11,144.45,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 11 Location CS1
+277,CS1-11,145.97,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 11 Location CS1
+278,CS1-11,147.92,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 11 Location CS1
+279,CS1-11,148.38,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well A11 From Vessel 11 Location CS1
+280,CS1-11,151.02,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 11 Location CS1
+281,CS1-11,151.53,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 11 Location CS1
+282,CS1-11,157.22,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B3 To Vessel 11 Location CS1
+283,CS1-11,160.23,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well C11 From Vessel 11 Location CS1
+284,CS1-11,162.24,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well E11 From Vessel 11 Location CS1
+285,CS1-11,164.27,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well G11 From Vessel 11 Location CS1
+286,CS1-11,187.27,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well A11 From Vessel 11 Location CS1
+287,CS1-12,130.27,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well A1 To Vessel 12 Location CS1
+288,CS1-12,135.38,Volume 0.060 ml From Vessel 12 Location CS1
+289,CS1-12,136.18,Volume 0.050 ml Added From PlateID inocula Location Deck 2 Well A12 To Vessel 12 Location CS1
+290,CS1-12,138.28,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 12 Location CS1
+291,CS1-12,142.07,Volume 0.056 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 12 Location CS1
+292,CS1-12,142.52,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 12 Location CS1
+293,CS1-12,142.95,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 12 Location CS1
+294,CS1-12,143.35,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 12 Location CS1
+295,CS1-12,143.88,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 12 Location CS1
+296,CS1-12,144.28,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 12 Location CS1
+297,CS1-12,144.65,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 12 Location CS1
+298,CS1-12,145.98,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 12 Location CS1
+299,CS1-12,148.42,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well A12 From Vessel 12 Location CS1
+300,CS1-12,151.55,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 12 Location CS1
+301,CS1-12,160.27,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well C12 From Vessel 12 Location CS1
+302,CS1-12,162.27,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well E12 From Vessel 12 Location CS1
+303,CS1-12,164.28,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well G12 From Vessel 12 Location CS1
+304,CS1-12,164.42,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B5 To Vessel 12 Location CS1
+305,CS1-12,187.28,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well A12 From Vessel 12 Location CS1
+306,CS2-1,114.43,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 1 Location CS2
+307,CS2-1,130.3,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well A1 To Vessel 1 Location CS2
+308,CS2-1,135.45,Volume 0.060 ml From Vessel 1 Location CS2
+309,CS2-1,136.22,Volume 0.097 ml Added From PlateID inocula Location Deck 2 Well B1 To Vessel 1 Location CS2
+310,CS2-1,138.33,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 1 Location CS2
+311,CS2-1,138.73,Volume 0.003 ml Added From PlateID inocula Location Deck 2 Well B1 To Vessel 1 Location CS2
+312,CS2-1,141.23,Volume 0.046 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 1 Location CS2
+313,CS2-1,141.6,Volume 0.057 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 1 Location CS2
+314,CS2-1,141.83,Volume 0.057 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 1 Location CS2
+315,CS2-1,142.28,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 1 Location CS2
+316,CS2-1,142.7,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 1 Location CS2
+317,CS2-1,143.08,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 1 Location CS2
+318,CS2-1,143.42,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 1 Location CS2
+319,CS2-1,143.67,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 1 Location CS2
+320,CS2-1,144.12,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 1 Location CS2
+321,CS2-1,145.37,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 1 Location CS2
+322,CS2-1,147.17,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 1 Location CS2
+323,CS2-1,147.57,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 1 Location CS2
+324,CS2-1,148.0,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 1 Location CS2
+325,CS2-1,151.3,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well B1 From Vessel 1 Location CS2
+326,CS2-1,151.82,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 1 Location CS2
+327,CS2-1,156.22,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B3 To Vessel 1 Location CS2
+328,CS2-1,162.5,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B4 To Vessel 1 Location CS2
+329,CS2-1,162.85,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well D1 From Vessel 1 Location CS2
+330,CS2-1,164.8,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well F1 From Vessel 1 Location CS2
+331,CS2-1,186.75,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well H1 From Vessel 1 Location CS2
+332,CS2-1,187.32,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well B1 From Vessel 1 Location CS2
+333,CS2-2,114.45,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 2 Location CS2
+334,CS2-2,130.3,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well A1 To Vessel 2 Location CS2
+335,CS2-2,135.48,Volume 0.060 ml From Vessel 2 Location CS2
+336,CS2-2,136.23,Volume 0.097 ml Added From PlateID inocula Location Deck 2 Well B2 To Vessel 2 Location CS2
+337,CS2-2,138.35,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 2 Location CS2
+338,CS2-2,138.75,Volume 0.003 ml Added From PlateID inocula Location Deck 2 Well B2 To Vessel 2 Location CS2
+339,CS2-2,141.25,Volume 0.048 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 2 Location CS2
+340,CS2-2,141.62,Volume 0.059 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 2 Location CS2
+341,CS2-2,141.85,Volume 0.055 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 2 Location CS2
+342,CS2-2,142.3,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 2 Location CS2
+343,CS2-2,142.72,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 2 Location CS2
+344,CS2-2,143.1,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 2 Location CS2
+345,CS2-2,143.43,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 2 Location CS2
+346,CS2-2,143.68,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 2 Location CS2
+347,CS2-2,144.13,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 2 Location CS2
+348,CS2-2,145.38,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 2 Location CS2
+349,CS2-2,146.37,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 2 Location CS2
+350,CS2-2,146.67,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 2 Location CS2
+351,CS2-2,146.9,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 2 Location CS2
+352,CS2-2,147.18,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 2 Location CS2
+353,CS2-2,147.58,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 2 Location CS2
+354,CS2-2,148.02,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 2 Location CS2
+355,CS2-2,151.32,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well B2 From Vessel 2 Location CS2
+356,CS2-2,151.83,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 2 Location CS2
+357,CS2-2,153.38,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 2 Location CS2
+358,CS2-2,162.89,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well D2 From Vessel 2 Location CS2
+359,CS2-2,163.97,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B5 To Vessel 2 Location CS2
+360,CS2-2,164.83,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well F2 From Vessel 2 Location CS2
+361,CS2-2,186.77,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well H2 From Vessel 2 Location CS2
+362,CS2-2,187.33,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well B2 From Vessel 2 Location CS2
+363,CS2-3,114.47,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 3 Location CS2
+364,CS2-3,130.3,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well A1 To Vessel 3 Location CS2
+365,CS2-3,135.53,Volume 0.060 ml From Vessel 3 Location CS2
+366,CS2-3,136.25,Volume 0.097 ml Added From PlateID inocula Location Deck 2 Well B3 To Vessel 3 Location CS2
+367,CS2-3,138.38,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 3 Location CS2
+368,CS2-3,138.77,Volume 0.103 ml Added From PlateID inocula Location Deck 2 Well B3 To Vessel 3 Location CS2
+369,CS2-3,141.43,Volume 0.055 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 3 Location CS2
+370,CS2-3,141.87,Volume 0.064 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 3 Location CS2
+371,CS2-3,142.32,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 3 Location CS2
+372,CS2-3,142.73,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 3 Location CS2
+373,CS2-3,143.12,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 3 Location CS2
+374,CS2-3,143.45,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 3 Location CS2
+375,CS2-3,143.7,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 3 Location CS2
+376,CS2-3,144.15,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 3 Location CS2
+377,CS2-3,145.07,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 3 Location CS2
+378,CS2-3,147.2,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 3 Location CS2
+379,CS2-3,147.6,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 3 Location CS2
+380,CS2-3,148.03,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 3 Location CS2
+381,CS2-3,151.57,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well B3 From Vessel 3 Location CS2
+382,CS2-3,151.85,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 3 Location CS2
+383,CS2-3,153.6,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 3 Location CS2
+384,CS2-3,159.55,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B4 To Vessel 3 Location CS2
+385,CS2-3,162.92,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well D3 From Vessel 3 Location CS2
+386,CS2-3,164.87,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well F3 From Vessel 3 Location CS2
+387,CS2-3,186.78,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well H3 From Vessel 3 Location CS2
+388,CS2-3,187.35,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well B3 From Vessel 3 Location CS2
+389,CS2-3,187.58,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well C5 To Vessel 3 Location CS2
+390,CS2-4,114.48,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 4 Location CS2
+391,CS2-4,130.32,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well A1 To Vessel 4 Location CS2
+392,CS2-4,135.57,Volume 0.060 ml From Vessel 4 Location CS2
+393,CS2-4,136.27,Volume 0.097 ml Added From PlateID inocula Location Deck 2 Well B4 To Vessel 4 Location CS2
+394,CS2-4,138.4,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 4 Location CS2
+395,CS2-4,138.78,Volume 0.103 ml Added From PlateID inocula Location Deck 2 Well B4 To Vessel 4 Location CS2
+396,CS2-4,141.27,Volume 0.049 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 4 Location CS2
+397,CS2-4,141.63,Volume 0.055 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 4 Location CS2
+398,CS2-4,141.88,Volume 0.056 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 4 Location CS2
+399,CS2-4,142.33,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 4 Location CS2
+400,CS2-4,142.75,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 4 Location CS2
+401,CS2-4,143.13,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 4 Location CS2
+402,CS2-4,143.47,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 4 Location CS2
+403,CS2-4,143.72,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 4 Location CS2
+404,CS2-4,144.17,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 4 Location CS2
+405,CS2-4,144.92,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 4 Location CS2
+406,CS2-4,147.22,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 4 Location CS2
+407,CS2-4,147.62,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 4 Location CS2
+408,CS2-4,148.05,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 4 Location CS2
+409,CS2-4,151.6,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well B4 From Vessel 4 Location CS2
+410,CS2-4,151.87,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 4 Location CS2
+411,CS2-4,162.94,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well D4 From Vessel 4 Location CS2
+412,CS2-4,164.9,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well F4 From Vessel 4 Location CS2
+413,CS2-4,165.07,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B5 To Vessel 4 Location CS2
+414,CS2-4,186.8,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well H4 From Vessel 4 Location CS2
+415,CS2-4,187.35,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well B4 From Vessel 4 Location CS2
+416,CS2-5,114.5,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 5 Location CS2
+417,CS2-5,130.32,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well A1 To Vessel 5 Location CS2
+418,CS2-5,135.62,Volume 0.060 ml From Vessel 5 Location CS2
+419,CS2-5,136.28,Volume 0.010 ml Added From PlateID inocula Location Deck 2 Well B5 To Vessel 5 Location CS2
+420,CS2-5,138.43,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 5 Location CS2
+421,CS2-5,143.97,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 5 Location CS2
+422,CS2-5,144.68,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 5 Location CS2
+423,CS2-5,145.4,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 5 Location CS2
+424,CS2-5,146.17,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 5 Location CS2
+425,CS2-5,146.92,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 5 Location CS2
+426,CS2-5,147.23,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 5 Location CS2
+427,CS2-5,147.63,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 5 Location CS2
+428,CS2-5,148.07,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 5 Location CS2
+429,CS2-5,148.45,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well B5 From Vessel 5 Location CS2
+430,CS2-5,151.88,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 5 Location CS2
+431,CS2-5,152.08,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 5 Location CS2
+432,CS2-5,153.4,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 5 Location CS2
+433,CS2-5,155.88,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B3 To Vessel 5 Location CS2
+434,CS2-5,160.3,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well D5 From Vessel 5 Location CS2
+435,CS2-5,162.3,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well F5 From Vessel 5 Location CS2
+436,CS2-5,164.32,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well H5 From Vessel 5 Location CS2
+437,CS2-5,164.53,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B5 To Vessel 5 Location CS2
+438,CS2-5,187.37,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well B5 From Vessel 5 Location CS2
+439,CS2-5,187.6,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well C5 To Vessel 5 Location CS2
+440,CS2-6,114.52,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 6 Location CS2
+441,CS2-6,130.32,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well A1 To Vessel 6 Location CS2
+442,CS2-6,135.65,Volume 0.060 ml From Vessel 6 Location CS2
+443,CS2-6,136.28,Volume 0.010 ml Added From PlateID inocula Location Deck 2 Well B6 To Vessel 6 Location CS2
+444,CS2-6,138.45,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 6 Location CS2
+445,CS2-6,144.18,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 6 Location CS2
+446,CS2-6,145.08,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 6 Location CS2
+447,CS2-6,145.83,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 6 Location CS2
+448,CS2-6,146.68,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 6 Location CS2
+449,CS2-6,146.93,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 6 Location CS2
+450,CS2-6,147.25,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 6 Location CS2
+451,CS2-6,147.65,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 6 Location CS2
+452,CS2-6,148.08,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 6 Location CS2
+453,CS2-6,151.07,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well B6 From Vessel 6 Location CS2
+454,CS2-6,151.9,Volume 0.011 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 6 Location CS2
+455,CS2-6,152.17,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 6 Location CS2
+456,CS2-6,152.6,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 6 Location CS2
+457,CS2-6,153.9,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 6 Location CS2
+458,CS2-6,156.23,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B3 To Vessel 6 Location CS2
+459,CS2-6,160.32,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well D6 From Vessel 6 Location CS2
+460,CS2-6,162.32,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well F6 From Vessel 6 Location CS2
+461,CS2-6,164.35,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well H6 From Vessel 6 Location CS2
+462,CS2-6,187.38,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well B6 From Vessel 6 Location CS2
+463,CS2-6,187.62,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well C5 To Vessel 6 Location CS2
+464,CS2-7,114.55,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 7 Location CS2
+465,CS2-7,130.32,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well A1 To Vessel 7 Location CS2
+466,CS2-7,135.68,Volume 0.060 ml From Vessel 7 Location CS2
+467,CS2-7,136.3,Volume 0.050 ml Added From PlateID inocula Location Deck 2 Well B7 To Vessel 7 Location CS2
+468,CS2-7,138.48,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 7 Location CS2
+469,CS2-7,143.48,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 7 Location CS2
+470,CS2-7,144.37,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 7 Location CS2
+471,CS2-7,145.25,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 7 Location CS2
+472,CS2-7,146.18,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 7 Location CS2
+473,CS2-7,147.27,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 7 Location CS2
+474,CS2-7,147.67,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 7 Location CS2
+475,CS2-7,148.1,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 7 Location CS2
+476,CS2-7,151.1,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well B7 From Vessel 7 Location CS2
+477,CS2-7,151.92,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 7 Location CS2
+478,CS2-7,152.3,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 7 Location CS2
+479,CS2-7,154.15,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 7 Location CS2
+480,CS2-7,158.38,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B3 To Vessel 7 Location CS2
+481,CS2-7,160.35,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well D7 From Vessel 7 Location CS2
+482,CS2-7,162.35,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well F7 From Vessel 7 Location CS2
+483,CS2-7,164.38,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well H7 From Vessel 7 Location CS2
+484,CS2-7,187.4,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well B7 From Vessel 7 Location CS2
+485,CS2-7,187.63,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well C5 To Vessel 7 Location CS2
+486,CS2-8,114.57,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 8 Location CS2
+487,CS2-8,130.33,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well A1 To Vessel 8 Location CS2
+488,CS2-8,135.73,Volume 0.060 ml From Vessel 8 Location CS2
+489,CS2-8,136.32,Volume 0.050 ml Added From PlateID inocula Location Deck 2 Well B8 To Vessel 8 Location CS2
+490,CS2-8,138.5,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 8 Location CS2
+491,CS2-8,143.73,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 8 Location CS2
+492,CS2-8,144.48,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 8 Location CS2
+493,CS2-8,145.42,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 8 Location CS2
+494,CS2-8,146.45,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 8 Location CS2
+495,CS2-8,146.7,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 8 Location CS2
+496,CS2-8,146.95,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 8 Location CS2
+497,CS2-8,147.28,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 8 Location CS2
+498,CS2-8,147.68,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 8 Location CS2
+499,CS2-8,148.12,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 8 Location CS2
+500,CS2-8,151.13,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well B8 From Vessel 8 Location CS2
+501,CS2-8,151.93,Volume 0.011 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 8 Location CS2
+502,CS2-8,152.18,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 8 Location CS2
+503,CS2-8,152.77,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 8 Location CS2
+504,CS2-8,155.4,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B3 To Vessel 8 Location CS2
+505,CS2-8,160.42,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well D8 From Vessel 8 Location CS2
+506,CS2-8,161.2,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B4 To Vessel 8 Location CS2
+507,CS2-8,162.38,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well F8 From Vessel 8 Location CS2
+508,CS2-8,164.45,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well H8 From Vessel 8 Location CS2
+509,CS2-8,187.42,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well B8 From Vessel 8 Location CS2
+510,CS2-8,187.65,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well C5 To Vessel 8 Location CS2
+511,CS2-9,114.58,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 9 Location CS2
+512,CS2-9,130.33,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well A1 To Vessel 9 Location CS2
+513,CS2-9,135.77,Volume 0.060 ml From Vessel 9 Location CS2
+514,CS2-9,136.33,Volume 0.097 ml Added From PlateID inocula Location Deck 2 Well B9 To Vessel 9 Location CS2
+515,CS2-9,138.53,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 9 Location CS2
+516,CS2-9,138.8,Volume 0.003 ml Added From PlateID inocula Location Deck 2 Well B9 To Vessel 9 Location CS2
+517,CS2-9,143.15,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 9 Location CS2
+518,CS2-9,143.98,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 9 Location CS2
+519,CS2-9,144.8,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 9 Location CS2
+520,CS2-9,145.85,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 9 Location CS2
+521,CS2-9,146.72,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 9 Location CS2
+522,CS2-9,146.97,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 9 Location CS2
+523,CS2-9,147.3,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 9 Location CS2
+524,CS2-9,147.7,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 9 Location CS2
+525,CS2-9,148.13,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 9 Location CS2
+526,CS2-9,151.63,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well B9 From Vessel 9 Location CS2
+527,CS2-9,151.95,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 9 Location CS2
+528,CS2-9,152.2,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 9 Location CS2
+529,CS2-9,153.42,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 9 Location CS2
+530,CS2-9,156.57,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B3 To Vessel 9 Location CS2
+531,CS2-9,162.97,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well D9 From Vessel 9 Location CS2
+532,CS2-9,164.93,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well F9 From Vessel 9 Location CS2
+533,CS2-9,186.82,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well H9 From Vessel 9 Location CS2
+534,CS2-9,187.43,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well B9 From Vessel 9 Location CS2
+535,CS2-10,114.6,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 10 Location CS2
+536,CS2-10,130.33,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well A1 To Vessel 10 Location CS2
+537,CS2-10,135.82,Volume 0.060 ml From Vessel 10 Location CS2
+538,CS2-10,136.35,Volume 0.097 ml Added From PlateID inocula Location Deck 2 Well B10 To Vessel 10 Location CS2
+539,CS2-10,138.55,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 10 Location CS2
+540,CS2-10,138.82,Volume 0.003 ml Added From PlateID inocula Location Deck 2 Well B10 To Vessel 10 Location CS2
+541,CS2-10,143.17,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 10 Location CS2
+542,CS2-10,144.0,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 10 Location CS2
+543,CS2-10,144.82,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 10 Location CS2
+544,CS2-10,145.87,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 10 Location CS2
+545,CS2-10,146.73,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 10 Location CS2
+546,CS2-10,147.32,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 10 Location CS2
+547,CS2-10,147.72,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 10 Location CS2
+548,CS2-10,148.15,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 10 Location CS2
+549,CS2-10,151.67,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well B10 From Vessel 10 Location CS2
+550,CS2-10,151.97,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 10 Location CS2
+551,CS2-10,152.22,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 10 Location CS2
+552,CS2-10,153.92,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 10 Location CS2
+553,CS2-10,156.93,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B3 To Vessel 10 Location CS2
+554,CS2-10,160.64,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B4 To Vessel 10 Location CS2
+555,CS2-10,163.0,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well D10 From Vessel 10 Location CS2
+556,CS2-10,164.55,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B5 To Vessel 10 Location CS2
+557,CS2-10,164.97,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well F10 From Vessel 10 Location CS2
+558,CS2-10,186.83,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well H10 From Vessel 10 Location CS2
+559,CS2-10,187.45,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well B10 From Vessel 10 Location CS2
+560,CS2-10,187.68,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well C5 To Vessel 10 Location CS2
+561,CS2-11,114.62,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 11 Location CS2
+562,CS2-11,130.35,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well A1 To Vessel 11 Location CS2
+563,CS2-11,135.85,Volume 0.060 ml From Vessel 11 Location CS2
+564,CS2-11,136.37,Volume 0.097 ml Added From PlateID inocula Location Deck 2 Well B11 To Vessel 11 Location CS2
+565,CS2-11,138.58,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 11 Location CS2
+566,CS2-11,138.82,Volume 0.103 ml Added From PlateID inocula Location Deck 2 Well B11 To Vessel 11 Location CS2
+567,CS2-11,143.18,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 11 Location CS2
+568,CS2-11,143.75,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 11 Location CS2
+569,CS2-11,144.5,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 11 Location CS2
+570,CS2-11,145.43,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 11 Location CS2
+571,CS2-11,146.2,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 11 Location CS2
+572,CS2-11,147.73,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 11 Location CS2
+573,CS2-11,148.17,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 11 Location CS2
+574,CS2-11,151.7,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well B11 From Vessel 11 Location CS2
+575,CS2-11,151.98,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 11 Location CS2
+576,CS2-11,152.62,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 11 Location CS2
+577,CS2-11,157.54,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B3 To Vessel 11 Location CS2
+578,CS2-11,157.78,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B3 To Vessel 11 Location CS2
+579,CS2-11,163.03,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well D11 From Vessel 11 Location CS2
+580,CS2-11,164.12,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B5 To Vessel 11 Location CS2
+581,CS2-11,164.98,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well F11 From Vessel 11 Location CS2
+582,CS2-11,186.85,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well H11 From Vessel 11 Location CS2
+583,CS2-11,187.47,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well B11 From Vessel 11 Location CS2
+584,CS2-11,187.7,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well C5 To Vessel 11 Location CS2
+585,CS2-12,114.63,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 12 Location CS2
+586,CS2-12,130.35,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well A1 To Vessel 12 Location CS2
+587,CS2-12,135.9,Volume 0.060 ml From Vessel 12 Location CS2
+588,CS2-12,136.38,Volume 0.097 ml Added From PlateID inocula Location Deck 2 Well B12 To Vessel 12 Location CS2
+589,CS2-12,138.6,Volume 5.000 ml Added From PlateID Media Location Deck 1 Well A1 To Vessel 12 Location CS2
+590,CS2-12,138.83,Volume 0.103 ml Added From PlateID inocula Location Deck 2 Well B12 To Vessel 12 Location CS2
+591,CS2-12,144.2,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 12 Location CS2
+592,CS2-12,145.27,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 12 Location CS2
+593,CS2-12,146.47,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 12 Location CS2
+594,CS2-12,146.75,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 12 Location CS2
+595,CS2-12,147.33,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 12 Location CS2
+596,CS2-12,147.75,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 12 Location CS2
+597,CS2-12,148.18,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B1 To Vessel 12 Location CS2
+598,CS2-12,151.72,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well B12 From Vessel 12 Location CS2
+599,CS2-12,152.0,Volume 0.011 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 12 Location CS2
+600,CS2-12,152.32,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 12 Location CS2
+601,CS2-12,152.78,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 12 Location CS2
+602,CS2-12,153.82,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B2 To Vessel 12 Location CS2
+603,CS2-12,155.9,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B3 To Vessel 12 Location CS2
+604,CS2-12,163.07,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well D12 From Vessel 12 Location CS2
+605,CS2-12,163.2,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well B5 To Vessel 12 Location CS2
+606,CS2-12,165.02,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well F12 From Vessel 12 Location CS2
+607,CS2-12,186.87,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well H12 From Vessel 12 Location CS2
+608,CS2-12,187.48,Volume 0.225 ml Sampled to PlateID cooled samples Location Deck 3 Well B12 From Vessel 12 Location CS2
+609,CS2-12,187.72,Volume 0.010 ml Added From PlateID antifoam and acid Location Deck 4 Well C5 To Vessel 12 Location CS2
