@@ -58,3 +58,6 @@ We should ask the client what criteria is appropriate for defining outliers.
 
 5. Do the output files satisfy the clients' needs? Need further discussions
 
+## Update on Feb 28th
+- Added a SQL script for importing the resulted csv files: mmJC_parser.sql
+
